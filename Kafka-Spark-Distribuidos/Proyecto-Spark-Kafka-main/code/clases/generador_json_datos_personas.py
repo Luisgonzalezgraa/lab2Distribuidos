@@ -5,7 +5,7 @@ from clases.generador_edad import GeneradorEdad
 from clases.generador_numero_telefonico import GeneradorNumeroTelefonico
 from clases.generador_ubicacion import GeneradorUbicacion
 from clases.generador_producto_visto import GeneradorProductoVisto
-from clases.generador_taps import GeneradorTAPS
+from clases.generador_tcompra import GeneradorTAPS
 from clases.generador_folio import GeneradorFolio
 
 import json
